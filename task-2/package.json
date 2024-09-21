@@ -1,0 +1,12 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pratyush Srivastava",
+  "github": "https://github.com/prs-dev",
+  "license": "ISC",
+  "description": "this is task-2 for quantumbees assesment"
+}
